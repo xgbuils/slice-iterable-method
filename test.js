@@ -157,6 +157,17 @@ test('slice method', function (t) {
 
         st.end()
     })
+
+    t.test('returns the same type', function (st) {
+        function Foo () {
+            this.start = 3
+            this.end = 5
+        }
+
+        result = sliceMethod.call(new Foo(), 0, 1)
+        st.equal(Object.getPrototypeOf(result), Foo.prototype)
+        st.end()
+    })
 })
 
 test.createStream()
