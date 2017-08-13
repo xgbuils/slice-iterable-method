@@ -14,12 +14,11 @@
 ## License
 MIT
 
-  [1]: https://travis-ci.org/xgbuils/slice-iterable.-methodsvg?branch=master
+  [1]: https://travis-ci.org/xgbuils/slice-iterable-method.svg?branch=master
   [2]: https://travis-ci.org/xgbuils/slice-iterable-method
-  [3]: https://badge.fury.io/js/slice-iterable.svg-method
+  [3]: https://badge.fury.io/js/slice-iterable-method.svg
   [4]: https://badge.fury.io/js/slice-iterable-method
-  [5]: https://coveralls.io/repos/github/xgbuils/slice-iterable/badge.svg?branch=master-method
-  [6]: https://coveralls.io/github/xgbuils/slice-iterable?branch=master-method
-  [7]: https://david-dm.org/xgbuils/slice-iterable.svg-method
+  [5]: https://coveralls.io/repos/github/xgbuils/slice-iterable-method/badge.svg?branch=master
+  [6]: https://coveralls.io/github/xgbuils/slice-iterable-method?branch=master
+  [7]: https://david-dm.org/xgbuils/slice-iterable-method.svg
   [8]: https://david-dm.org/xgbuils/slice-iterable-method
-  
